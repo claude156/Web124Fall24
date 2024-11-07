@@ -1,7 +1,4 @@
-//My name is Richard Nahano
-//Today's Date 11/06/24
-// Richard Nahano
-// 11/06/24
+
 
 const fullName = "Richard Nahano";
 const DesireSalary = 125000;
