@@ -1,5 +1,3 @@
-
-
 const fullName = "Richard Nahano";
 const DesireSalary = 125000;
 const VeteranStatus = false;
